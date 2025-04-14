@@ -9,7 +9,7 @@
 
 ### 🎮 Projetos em andamento:
 
-- 🛠️ **MarmEasy** - Aplicativo para gestão de marmitas e controle financeiro;
+- 🛠️ **YourMenu** - WebSite de cardápios personalizaveis;
 - 🌐 **NorDTF** - Landing page para visualização de uma marca 
 
 ### 💡 Habilidades principais:
