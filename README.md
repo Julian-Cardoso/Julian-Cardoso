@@ -10,7 +10,9 @@
 ### 🎮 Projetos em andamento:
 
 - 🛠️ **YourMenu** - WebSite de cardápios personalizaveis;
-- 🌐 **NorDTF** - Landing page para visualização de uma marca 
+- 🌐 **NorDTF** - Landing page para visualização de uma marca
+- 🌳 **Contos da Nossa Terra** - Site para contar as histórias do folclore brasileiro
+
 
 ### 💡 Habilidades principais:
 
