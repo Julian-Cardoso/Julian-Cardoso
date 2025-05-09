@@ -27,9 +27,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Julian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julian-Cardoso&show_icons=true&theme=tokyonight&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Cardoso&layout=compact&theme=tokyonight)
+![Julian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julian-Cardoso&show_icons=true&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Cardoso&layout=compact&theme=tokyonight)
 
 
 ## 🌐 Vamos conectar?
