@@ -25,9 +25,10 @@
 - 🧩 Conceitos: Modelagem | Requisitos | Interfaces de usuário
 
 
-### 📊 Estatísticas do GitHub:
+## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julian-Cardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Julian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julian-Cardoso&show_icons=true&theme=tokyonight&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Cardoso&layout=compact&theme=tokyonight)
 
 
