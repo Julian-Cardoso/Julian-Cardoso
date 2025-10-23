@@ -60,12 +60,14 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div flex, align="center">
-
-![Julian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julian-Cardoso&show_icons=true&theme=tokyonight&include_all_commits=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Cardoso&layout=compact&theme=tokyonight)
-
-</div>
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/Julian-Cardoso">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Julian-Cardoso&show_icons=true&theme=tokyonight"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Julian-Cardoso&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
+   <div style="margin-top: 10px; display: flex; justify-content: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julian-Cardoso&theme=tokyonight" width="610px" height="180px"/>
+    </div>
 
 <br/>
 
