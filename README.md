@@ -20,7 +20,7 @@
 
 - 🐢 [**Livo**](#) — Aplicativo mobile para gerenciamento de leitura  
 - 🦉 [**SGPInsight**](#) — Aplicação Desktop para controle patrimonial e manutenção de equipamentos de T.I.  
-- 📋 [**Plataforma de Qualidade de Software e de Dados – SEFAZ/CE**](#) — Projeto voltado ao monitoramento de indicadores, histórias de usuário e automação de requisitos  
+- 📋 [**Plataforma de Qualidade de Software e de Dados – SEFAZ/CE**](#) — Projeto voltado ao monitoramento de indicadores de qualidade
 
 ---
 
